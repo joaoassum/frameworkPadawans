@@ -1,0 +1,39 @@
+*{
+	box-sizing: border-box;
+ }
+
+body{
+	font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+	font-size: 14px;
+}
+
+table{
+	width: 100%;
+	margin-bottom : .5em;
+}
+
+td, th {
+	padding: .7em;
+	margin: 0;
+	border: 1px solid #ccc;
+	text-align: center;
+}
+
+th{
+	font-weight: bold;
+	background-color: #EEE;
+}
+
+button{
+	padding: .5em 2em;
+	border: 0;
+	font-size: 1.2em;
+	cursor: pointer;
+	margin: 0;
+	color: #fff;
+	background-color:#0c8cd3;
+	width: 200px;
+    display: block;
+    margin: 10px 0px;
+}
+
